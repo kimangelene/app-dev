@@ -6,7 +6,8 @@ My first repository
 The movie was funny! :joy: the characters in the movie are funny and inspiring.
 Ron is a robot that was malfunctioning when the boy named Barney had Ron as a friend.
 They *take on the bullies*, had *fun moments together*, and discovered a *true friednship*. :sparkling_heart: 
-**Some characters are**
+
+**Some characters in the movies are:**
 1. Barney
 2. Savannah
 3. Ron
